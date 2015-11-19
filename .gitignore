@@ -12,6 +12,11 @@
 hs_err_pid*
 /HolamundoLaura/target/
 /aplicacionLecturaWeb/target/
-/TiendaWebLaura/nbproject/private/
-/TiendaWebLaura/build/
-/WebServer1/nbproject/private/
+/TiendaWebRafa/nbproject/private/
+/TiendaWebRafa/build/
+/TiendaWebRafa/dist/
+/ClienteWeb/nbproject/private/
+/ClienteTerminal/nbproject/private/
+/WebServer2/target/
+/WebServer1/build/
+/WebServer1/dist/
