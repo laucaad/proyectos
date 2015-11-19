@@ -11,3 +11,7 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 /HolamundoLaura/target/
+/aplicacionLecturaWeb/target/
+/TiendaWebLaura/nbproject/private/
+/TiendaWebLaura/build/
+/WebServer1/nbproject/private/
