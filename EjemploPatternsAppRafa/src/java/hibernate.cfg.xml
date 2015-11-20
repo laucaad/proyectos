@@ -7,5 +7,12 @@
     <property name="hibernate.connection.url">jdbc:derby://localhost:1527/sample</property>
     <property name="hibernate.connection.username">app</property>
     <property name="hibernate.connection.password">app</property>
+    <mapping resource="pojo/ProductCode.hbm.xml"/>
+    <mapping resource="pojo/Customer.hbm.xml"/>
+    <mapping resource="pojo/MicroMarket.hbm.xml"/>
+    <mapping resource="pojo/PurchaseOrder.hbm.xml"/>
+    <mapping resource="pojo/DiscountCode.hbm.xml"/>
+    <mapping resource="pojo/Manufacturer.hbm.xml"/>
+    <mapping resource="pojo/Product.hbm.xml"/>
   </session-factory>
 </hibernate-configuration>
