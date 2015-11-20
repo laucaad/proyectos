@@ -20,7 +20,7 @@ public class AuxiliarController {
             if(c.getId()!= -1 && c.getId() == id)
                return c;
         }
-        return new Categoria();
+        return null;
     }
     
     public static Categoria getCategoriaByName(String name){
@@ -29,7 +29,7 @@ public class AuxiliarController {
             if(c.getName()!= null && c.getName().equals(name))
                return c;
         }
-        return new Categoria();
+        return null;
     }
     
     public static int setCategoria(Categoria categoria){
